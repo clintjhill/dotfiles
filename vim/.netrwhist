@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/clinthill/Development/templating-engine/src/main/webapp/WEB-INF/site/templates/content/_default/global'
+let g:netrw_dirhist_2='/Users/clinthill/Development/apollo-javascript/core/libs/jquery-1.4.2'
+let g:netrw_dirhist_3='/Users/clinthill/Development/citrus/lib/citrus'
+let g:netrw_dirhist_4='/Users/clinthill/Development/frameworks/Peggy.js'
+let g:netrw_dirhist_5='/Users/clinthill/Development/frameworks/Peggy.js/src'
+let g:netrw_dirhist_6='/Users/clinthill/Dropbox/dotvim'
