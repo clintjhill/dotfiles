@@ -1,0 +1,8 @@
+[alias]
+  st = status
+  ci = commit
+[user]
+	name = Clint Hill
+	email = clint.hill@gmail.com
+[push]
+	default = simple
