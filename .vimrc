@@ -10,5 +10,5 @@ set statusline=%F\ %y\ [Column:%v\ \ Line:%l]
 set laststatus=2
 set background=dark
 colorscheme solarized
-let g:solarized_visibility="low"
 au BufNewFile,BufRead *.rs set filetype=rust
+let g:netrw_liststyle=3
