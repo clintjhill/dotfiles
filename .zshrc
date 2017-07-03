@@ -50,7 +50,7 @@ plugins=(git history history-substring-search brew)
 
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 # export MANPATH="/usr/local/man:$MANPATH"
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home
+export JAVA_HOME=$(/usr/libexec/java_home)
 
 source $ZSH/oh-my-zsh.sh
 
