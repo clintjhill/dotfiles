@@ -8,4 +8,3 @@ set list
 set listchars=tab:▸\ ,eol:¬
 set statusline=%F\ %y\ [Column:%v\ \ Line:%l]
 set laststatus=2
-set background=dark
